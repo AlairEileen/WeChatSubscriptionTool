@@ -1,6 +1,4 @@
-
-
-# WeChatSubscriptionTool
+# 微信公众号爬虫工作 windows8以上
 微信公众号爬虫软件 wpf
 该版本可以下载微信公众号发布的内容，包括html和图片。
 
