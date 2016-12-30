@@ -10,4 +10,4 @@
                   
                   
 也希望大家用的好的也给我些资助，毕竟学生比较难赚钱！谢谢大家！！
-![image](https://github.com/AlairEileen/AlairSpace/Resources/AlipayCode.jpg)![image](https://github.com/AlairEileen/AlairSpace/Resources/WeChatCode.jpg)
+![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/WeChatCode.jpg)![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/AlipayCode.jpg)
